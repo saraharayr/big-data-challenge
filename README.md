@@ -1,4 +1,4 @@
-#"Alexa, can you handle big data?"
+# "Alexa, can you handle big data?"
 wk.22 Big Data Homework 
 
 ## Background
